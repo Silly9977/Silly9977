@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**Silly9977/Silly9977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer in progress, learning software
+development and exploring Data Engineering.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linux and Bash
+- Git and GitHub
+- Python
+- SQL and PostgreSQL
+- Data Engineering fundamentals
+
+## My Current Project
+
+- Learning Log — documenting my journey
+  through Linux, Git and programming.
+
+## My Goals
+
+- Build practical development projects.
+- Improve my problem-solving skills.
+- Develop strong software engineering fundamentals.
+
+## GitHub
+
+I'm using GitHub to document my learning,
+practise collaboration and build projects.
